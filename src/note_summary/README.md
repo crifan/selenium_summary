@@ -48,6 +48,7 @@
 其中：
 * `find_element_by_link_text`
 * `find_element_by_partial_link_text`
+
 指的是标签`a`的`link`，而其他标签是用不了的。
 
 ## 不是`select`和`option`的下拉选项列表
@@ -58,7 +59,9 @@
     <option>
 ```
 才可以。其他的元素，比如我遇到的：
+
 [【已解决】Selenium如何点击下拉框并选择某个值](http://www.crifan.com/selenium_click_dropdown_show_option_list_to_choose_someone)
+
 中的
 ```html
 <ul>
@@ -110,13 +113,14 @@ carNumSelectElem.click()
 
 ![找到真正的input元素](../assets/img/found_real_input_element.png)
 
+相关代码是：
 
 ```html
 <input type="email" name="loginfmt" id="i0116" ......
                     attr: inputAttributes" aria-label="Enter your email, phone, or Skype.">
 ```
 
-## 有时候点击按钮后页面刷新了，url地址也换了，再去用driver寻找元素之前，要先refresh后，才能找到
+## 有时候点击按钮后页面刷新且url地址也换了，再去用driver寻找元素之前，先要refresh然后才能找到
 
 但是有时候却又不需要refresh也可以
 
@@ -144,7 +148,8 @@ phholderElement = driver.find_element_by_class_name('phholder')
 logging.info("phholderElement=%s", phholderElement)
 placeholderElement = phholderElement.find_element_by_class_name("placeholder")
 ```
-确保xpath写的是对的，查看页面元素是存在的，但却还是找不到元素。
+
+此处已确保`xpath`写的是对的，且查看页面元素的确是存在的，但却还是找不到元素。
 
 
 ## 单个WebElement本身好像不支持截图
@@ -161,9 +166,10 @@ priceSpanElement.screenshot("priceElement.png")
 ```
 
 结果报错：
+
 `selenium.common.exceptions.WebDriverException: Message: unknown command: session/7160497aa2d4dc2029bcb5c4d2e8045a/element/0.07853595638566757-1/screenshot`
 
-所以算了。不去管这个了。感觉是**单个WebElement本身好像不支持截图**
+所以算了，不去管这个了。感觉是**单个WebElement本身好像不支持截图**
 
 ## get的url没法back或forward，而navigate的url可以
 详见：
