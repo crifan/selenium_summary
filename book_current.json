@@ -1,0 +1,19 @@
+{
+  "title": "Selenium知识总结",
+  "description": "总结Selenium相关知识",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "selenium_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/selenium_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/selenium_summary/pdf/selenium_summary.pdf"
+    }
+  }
+}
