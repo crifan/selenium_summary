@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v1.0",
-  "lastUpdate": "20210417",
+  "latestVersion": "v2.0",
+  "lastUpdate": "20210429",
   "gitRepoName": "selenium_summary",
   "bookName": "Selenium知识总结",
-  "bookDescription": "总结折腾Selenium方面的心得和经验，供参考。"
+  "bookDescription": "介绍PC端Web自动化最主流工具Selenium。先介绍了如何初始化Selenium开发环境，再介绍基本操作，包括查找元素、输入文字、点击元素、获取元素属性等；以及总结一些开发经验，包括如何等待元素出现、select不能用于ul、偶尔Chrome右键找到的元素不是你要的，偶尔刷新后才能找到元素等；给出具体实例，比如模拟百度搜索并解析搜索结果；给出相关文档和资料。"
 }

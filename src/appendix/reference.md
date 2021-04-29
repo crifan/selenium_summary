@@ -5,7 +5,16 @@
 * 【已解决】Mac中搭建Selenium的Python开发环境
 * 【已解决】Mac中下载Selenium的Chrome的driver：ChromeDriver
 * 【已解决】Selenium中给百度搜索框中输入文字并触发搜索
+* 【已解决】Selenium中Python解析百度搜索结果第一页获取标题列表
+* 【已解决】Selenium中如何实现百度搜索结果标题元素的定位
+* 【已解决】Mac中用Selenium自动操作浏览器实现百度搜索
+* 【已解决】Selenium调试时能搜到元素但是直接运行找不到
+* 【已解决】Selenium中如何获取到当前页面的html源码
 * 
+* [【整理】用Chrome或Chromium查看百度首页中各元素的html源码 – 在路上](https://www.crifan.com/use_chrome_or_chromium_view_baidu_home_page_elements_html_source_code/)
+* [【已解决】Selenium中如何定位元素：百度首页中的输入框 – 在路上](https://www.crifan.com/how_locate_elements_selenium_input_box_on_home_page_baidu/)
+* [【已解决】Selenium中给百度搜索框中输入文字并触发搜索 – 在路上](https://www.crifan.com/enter_text_into_baidu_search_box_selenium_trigger_search/)
+* [【整理】用Chrome或Chromium查看百度首页中各元素的html源码](https://www.crifan.com/use_chrome_or_chromium_view_baidu_home_page_elements_html_source_code)
 * [【已解决】Selenium再次出错：NoSuchElementException: Message: no such element: Unable to locate element](http://www.crifan.com/selenium_nosuchelementexception_messsage_no_such_element_unable_to_locate_element)
 * [Mac os上配置selenium并使用python操作web页面_iluxiaoxiaoniao的博客-CSDN博客_mac python webdriver](https://blog.csdn.net/iluxiaoxiaoniao/article/details/80384118)
 * [mac 搭建selenium与ChromeDriver环境 - 简书](https://www.jianshu.com/p/39716ea15d99)
