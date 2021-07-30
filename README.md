@@ -1,11 +1,11 @@
 # Selenium知识总结
 
-* 最新版本：`v2.0`
-* 更新时间：`20210429`
+* 最新版本：`v2.1`
+* 更新时间：`20210728`
 
 ## 简介
 
-介绍PC端Web自动化最主流工具Selenium。先介绍了如何初始化Selenium开发环境，再介绍基本操作，包括查找元素、输入文字、点击元素、获取元素属性等；以及总结一些开发经验，包括如何等待元素出现、select不能用于ul、偶尔Chrome右键找到的元素不是你要的，偶尔刷新后才能找到元素等；给出具体实例，比如模拟百度搜索并解析搜索结果；给出相关文档和资料。
+介绍PC端Web自动化最主流工具Selenium。先介绍了如何初始化Selenium开发环境，再介绍基本操作，包括查找元素、输入文字、点击元素、等待元素出现、获取元素属性等；以及总结一些开发经验，包括如何等待元素出现、select不能用于ul、偶尔Chrome右键找到的元素不是你要的，偶尔刷新后才能找到元素等；给出具体实例，比如模拟百度搜索并解析搜索结果；给出相关文档和资料。
 
 ## 源码+浏览+下载
 
@@ -21,14 +21,14 @@
 
 ### 在线浏览
 
-* [Selenium知识总结 book.crifan.com](http://book.crifan.com/books/selenium_summary/website)
+* [Selenium知识总结 book.crifan.com](https://book.crifan.com/books/selenium_summary/website)
 * [Selenium知识总结 crifan.github.io](https://crifan.github.io/selenium_summary/website)
 
 ### 离线下载阅读
 
-* [Selenium知识总结 PDF](http://book.crifan.com/books/selenium_summary/pdf/selenium_summary.pdf)
-* [Selenium知识总结 ePub](http://book.crifan.com/books/selenium_summary/epub/selenium_summary.epub)
-* [Selenium知识总结 Mobi](http://book.crifan.com/books/selenium_summary/mobi/selenium_summary.mobi)
+* [Selenium知识总结 PDF](https://book.crifan.com/books/selenium_summary/pdf/selenium_summary.pdf)
+* [Selenium知识总结 ePub](https://book.crifan.com/books/selenium_summary/epub/selenium_summary.epub)
+* [Selenium知识总结 Mobi](https://book.crifan.com/books/selenium_summary/mobi/selenium_summary.mobi)
 
 ## 版权说明
 

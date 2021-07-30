@@ -10,6 +10,13 @@
 * 【已解决】Mac中用Selenium自动操作浏览器实现百度搜索
 * 【已解决】Selenium调试时能搜到元素但是直接运行找不到
 * 【已解决】Selenium中如何获取到当前页面的html源码
+* 【已解决】用Selenium模拟浏览器去bing必应搜索并返回结果
+* 【部分解决】通过参数禁止Selenium-wire捕获请求
+* 【已解决】Selenium从bing搜索结果解析出错：特殊的richcard多tab
+* 【已解决】Selenium中用xpath查询元素节点找到结果不对
+* 【已解决】Selenium如何实现2种class属性值的or或去查找元素
+* 【已解决】Selenium获取页面内部调用的http的api请求和返回的json数据
+* 【已解决】Selenium的Chrome模拟bing必应搜索结果页面提取搜索结果
 * 
 * [【整理】用Chrome或Chromium查看百度首页中各元素的html源码 – 在路上](https://www.crifan.com/use_chrome_or_chromium_view_baidu_home_page_elements_html_source_code/)
 * [【已解决】Selenium中如何定位元素：百度首页中的输入框 – 在路上](https://www.crifan.com/how_locate_elements_selenium_input_box_on_home_page_baidu/)

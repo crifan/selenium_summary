@@ -1,6 +1,6 @@
 {
   "title": "Selenium知识总结",
-  "description": "介绍PC端Web自动化最主流工具Selenium。先介绍了如何初始化Selenium开发环境，再介绍基本操作，包括查找元素、输入文字、点击元素、获取元素属性等；以及总结一些开发经验，包括如何等待元素出现、select不能用于ul、偶尔Chrome右键找到的元素不是你要的，偶尔刷新后才能找到元素等；给出具体实例，比如模拟百度搜索并解析搜索结果；给出相关文档和资料。",
+  "description": "介绍PC端Web自动化最主流工具Selenium。先介绍了如何初始化Selenium开发环境，再介绍基本操作，包括查找元素、输入文字、点击元素、等待元素出现、获取元素属性等；以及总结一些开发经验，包括如何等待元素出现、select不能用于ul、偶尔Chrome右键找到的元素不是你要的，偶尔刷新后才能找到元素等；给出具体实例，比如模拟百度搜索并解析搜索结果；给出相关文档和资料。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/selenium_summary/website/"
+      "prefix": "https://book.crifan.com/books/selenium_summary/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/selenium_summary/pdf/selenium_summary.pdf"
+      "url": "https://book.crifan.com/books/selenium_summary/pdf/selenium_summary.pdf"
     }
   }
 }
